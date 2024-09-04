@@ -1,0 +1,235 @@
+{
+    "services": [
+        {
+            "name": "Divar",
+            "url": "https://api.divar.ir/v5/auth/authenticate",
+            "json": {
+                "phone": "0phnum"
+            }
+        },
+        {
+            "name": "Snapp",
+            "url": "https://api.snapp.ir/api/v1/sms/link",
+            "json": {
+                "phone": "0phnum"
+            }
+        },
+        {
+            "name": "Digikala",
+            "url": "https://api.digikala.com/v1/user/authenticate/",
+            "json": {
+                "username": "0phnum"
+            }
+        },
+        {
+            "name": "Alibaba",
+            "url": "https://ws.alibaba.ir/api/v3/account/mobile/otp",
+            "json": {
+                "phoneNumber": "phnum"
+            }
+        },
+        {
+            "name": "DigikalaJet",
+            "url": "https://api.digikalajet.ir/user/login-register/",
+            "json": {
+                "phone":"0phnum"
+            }
+        },
+        {
+            "name": "Ostadkar",
+            "url": "https://api.ostadkr.com/login",
+            "json": {
+                "mobile":"0phnum"
+            }
+        },
+        {
+            "name": "nobat",
+            "url": "https://nobat.ir/api/public/patient/login/phone",
+            "json": {
+                "mobile":"0phnum"
+            }
+        },
+        {
+            "name": "tikban",
+            "url": "https://tikban.com/Account/LoginAndRegister",
+            "json": {
+                "CellPhone":"0phnum"
+            }
+        },
+        {
+            "name": "pinket",
+            "url": "https://pinket.com/api/cu/v2/phone-verification",
+            "json": {
+                "phoneNumber":"0phnum"
+            }
+        },
+        {
+            "name": "banimode",
+            "url": "https://mobapi.banimode.com/api/v2/auth/request",
+            "json": {
+                "phone":"0phnum"
+            }
+        },
+        {
+            "name": "alopeyk",
+            "url": "https://api.alopeyk.com/safir-service/api/v1/login",
+            "json": {
+                "phone": "0phnum"
+            }
+        },
+        {
+            "name": "sibbank",
+            "url": "https://api.sibbank.ir/v1/auth/login",
+            "json": {
+                "phone_number": "0phnum"
+            }
+        },
+        {
+            "name": "trip1",
+            "url": "https://gateway.trip.ir/api/registers",
+            "json": {
+                "CellPhone": "0phnum"
+            }
+        },
+        {
+            "name": "trip2",
+            "url": "https://gateway.trip.ir/api/Totp",
+            "json": {
+                "PhoneNumber": "0phnum"
+            }
+        },
+        {
+            "name": "namava",
+            "url": "https://www.namava.ir/api/v1.0/accounts/login/by-otp/request",
+            "json": {
+                "UserName":"+98phnum"
+            }
+        },
+        {
+            "name": "Shab",
+            "url": "https://api.shab.ir/api/fa/sandbox/v_1_4/auth/login-otp",
+            "json": {
+                "mobile":"0phnum"
+            }
+        },
+        {
+            "name": "Otaghak",
+            "url": "https://core.otaghak.com/odata/Otaghak/Users/SendVerificationCode",
+            "json": {
+                "username":"0phnum"
+            }
+        },
+        {
+            "name": "Bitpin",
+            "url": "https://api.bitpin.org/v3/usr/authenticate/",
+            "json": {
+                "device_type":"web","password":"Qw@#4532","phone":"0phnum"
+            }
+        },
+        {
+            "name": "watchonline",
+            "url": "https://api.watchonline.shop/api/v1/otp/request",
+            "json": {
+                "mobile":"0phnum"
+            }
+        },
+        {
+            "name": "mamifood",
+            "url": "https://mamifood.org/Registration.aspx/SendValidationCode",
+            "json": {
+                "Phone":"0phnum"
+            }
+        },
+        {
+            "name": "abantether",
+            "url": "https://api.abantether.com/api/v2/auths/register/phone/send",
+            "json": {
+                "phone_number":"0phnum"
+            }
+        },
+        {
+            "name": "dadhesab1",
+            "url": "https://api.dadhesab.ir/user/entry",
+            "json": {
+                "username":"0phnum"
+            }
+        },
+        {
+            "name": "dadhesab2",
+            "url": "https://api.dadhesab.ir/user/updatecodeandsend",
+            "json": {
+                "username":"0phnum"
+            }
+        },
+        {
+            "name": "tamland",
+            "url": "https://lms.tamland.ir/api/api/user/signup",
+            "json": {
+                "Mobile":"0phnum"
+            }
+        },
+        {
+            "name": "irantic",
+            "url": "https://www.irantic.com/api/login/authenticate",
+            "json": {
+                "mobile":"0phnum"
+            }
+        },
+        {
+            "name": "mashinbank",
+            "url": "https://mashinbank.com/api2/users/check",
+            "json": {
+                "mobileNumber":"0phnum"
+            }
+        },
+        {
+            "name": "timcheh",
+            "url": "https://api.timcheh.com/auth/otp/send",
+            "json": {
+                "mobile":"0phnum"
+            }
+        },
+        {
+            "name": "khodro45",
+            "url": "https://khodro45.com/api/v2/customers/otp/",
+            "json": {
+                "mobile":"0phnum"
+            }
+        },
+        {
+            "name": "shahrfarsh",
+            "url": "https://shahrfarsh.com/Account/Login",
+            "json": {
+                "phoneNumber=":"0phnum"
+            }
+        },
+        {
+            "name": "dicardo",
+            "url": "https://dicardo.com/main/sendotp",
+            "json": {
+                "phone":"0phnum"
+            }
+        },
+        {
+            "name": "bit24",
+            "url": "https://bit24.cash/auth/bit24/api/v3/auth/check-mobile",
+            "json": {
+                "mobile":"0phnum"
+            }
+        },
+        {
+            "name": "anargift",
+            "url": "https://api.anargift.com/api/v1/auth/send_code",
+            "json": {
+                "mobile":"0phnum"
+            }
+        },
+        {
+            "name": "sheypoor",
+            "url": "https://www.sheypoor.com/api/v10.0.0/auth/send",
+            "json": {
+                "username":"0phnum"
+            }
+        }
+    ]
+}
